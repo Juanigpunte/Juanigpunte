@@ -2,26 +2,27 @@
 
 # Hola, soy Juan Ignacio Punte 👋
 
-### Desarrollador Full-Stack · React · TypeScript · Node.js
+### Desarrollador Full-Stack · Fundador de [Arecotech](https://arecotech.com.ar)
 
-Construyo aplicaciones web completas orientadas a uso real: desde sistemas comerciales y POS con facturación electrónica hasta e-commerce y flujos de desarrollo asistidos por agentes de IA.
+Desarrollo web y software a medida para PyMEs, comercios y clubes — **de la idea a producción**.
+
+<sub>📍 San Antonio de Areco, Argentina · +3 años de experiencia · +15 proyectos en producción</sub>
+
+<br />
 
 <p>
+  <a href="https://arecotech.com.ar">
+    <img src="https://img.shields.io/badge/Portfolio-arecotech.com.ar-C9922B?style=for-the-badge&logo=googlechrome&logoColor=17181A" alt="Portfolio Arecotech" />
+  </a>
+  <a href="https://www.linkedin.com/in/juanigpunte/">
+    <img src="https://img.shields.io/badge/LinkedIn-juanigpunte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/areco.tech/">
+    <img src="https://img.shields.io/badge/Instagram-@areco.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="mailto:juanigpunte@gmail.com">
-    <img src="https://img.shields.io/badge/Email-juanigpunte%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-juanigpunte%40gmail.com-17181A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Juanigpunte">
-    <img src="https://img.shields.io/badge/GitHub-Juanigpunte-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Reemplazá los enlaces de abajo con tu LinkedIn y/o Portfolio cuando quieras activarlos -->
-  <!--
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tu-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-Ver%20sitio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  -->
 </p>
 
 </div>
@@ -30,53 +31,35 @@ Construyo aplicaciones web completas orientadas a uso real: desde sistemas comer
 
 ## 👨‍💻 Sobre mí
 
-- 💻 Desarrollo aplicaciones web **full-stack** con foco en **React, TypeScript y Node.js**.
-- 🏪 Actualmente trabajando en un **Sistema de Caja (POS) y gestión comercial** completo con soporte multi-sucursal y facturación electrónica ARCA/AFIP.
-- 🤖 Exploro y adapto **workflows multi-agente** para ingeniería de software (Antigravity, Gemini CLI y Claude Code).
-- 🇦🇷 Desde Argentina, enfocado en código mantenible, interfaces rápidas y soluciones prácticas.
+Soy desarrollador **full-stack** con más de tres años de experiencia y fundador de **[Arecotech Informática & Software](https://arecotech.com.ar)**, mi marca personal y estudio de desarrollo en San Antonio de Areco, Argentina.
+
+Me enfoco en resolver problemas reales con software que la gente realmente use: desde sitios institucionales y landings hasta sistemas de gestión y punto de venta en producción, cubriendo todo el ciclo — arquitectura, desarrollo, despliegue, seguridad y soporte continuo.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🧾 Sistema de Caja — POS & Gestión Comercial `Repositorio privado`
+### 🧾 [TARA — Sistema de Caja (POS)](https://tara.arecotech.com.ar)
 
-Aplicación web full-stack de punto de venta y gestión comercial diseñada para operación diaria en mostrador y administración multi-sucursal.
+Sistema de caja y gestión comercial diseñado para comercios con balanza, preparado para el ritmo diario de mostrador.
 
+- **Qué resuelve:** lectura por código interno, EAN y etiquetas de balanza, pagos combinados, ticket térmico de 80 mm y **cola offline** para seguir vendiendo sin internet.
+- **Facturación y gestión:** facturación electrónica **ARCA/AFIP** (WSAA + WSFEv1) con CAE y QR oficial, Notas de Crédito automáticas, soporte **multi-CUIT** y administración **multi-sucursal** con listas de precios y carga masiva vía Excel.
 - **Stack:** React 19 · TypeScript · Vite · Fastify 5 · Drizzle ORM · MySQL/MariaDB · Vitest
-- **Destacado:**
-  - Caja mostrador con lectura por código interno, EAN y etiquetas de balanza, pagos combinados, cola offline e impresión térmica de 80 mm.
-  - Integración de **facturación electrónica ARCA (WSAA + WSFEv1)** con CAE, QR oficial, Notas de Crédito automáticas y soporte **multi-CUIT** con cifrado AES-256-GCM.
-  - Gestión multi-sucursal con permisos por usuario, listas de precios independientes e importación/exportación masiva por Excel (`.xlsx`).
+- 🔗 **Landing:** [tara.arecotech.com.ar](https://tara.arecotech.com.ar)
 
 ---
 
-### 🤖 [agent-workflow-kit](https://github.com/Juanigpunte/agent-workflow-kit)
+### 📦 Otros proyectos en producción
 
-Fork con extensiones propias sobre un kit de flujo de desarrollo multi-agente (*implementer + reviewer*, quality gates, PR y validación).
-
-- **Aportes principales:**
-  - Soporte multi-harness agregando manifests y documentación para **Antigravity** y **Gemini CLI**.
-  - Refactor de skills y plantillas de agentes para ser *harness-agnostic* y compatibles con **PowerShell / Windows**.
-  - Mejoras en el flujo de orquestación y validación de reglas read-only para el revisor.
-
----
-
-### 🛍️ [Nny Store (`ReactCoderhouse`)](https://github.com/Juanigpunte/ReactCoderhouse) · [Ver demo ↗](https://nny-store.vercel.app)
-
-E-commerce SPA desarrollado con React y Firebase como proyecto final de React JS.
-
-- **Stack:** React · Vite · React Router · Firebase (Firestore) · CSS · AOS
-- **Destacado:** Catálogo dinámico conectado a Firestore, navegación por categorías, detalle de producto y carrito con manejo de estado global mediante Context API.
-
----
-
-### 🖥️ [ArecoTech E-Commerce](https://github.com/Juanigpunte/ArecoTech-Ecommerce) · [Ver demo ↗](https://areco-tech-ecommerce.vercel.app)
-
-Tienda web de hardware para armado de PCs desarrollada con JavaScript nativo, Bootstrap y Sass.
-
-- **Stack:** JavaScript (ES6+) · HTML5 · SCSS · Bootstrap 5 · AOS
-- **Destacado:** Consumo de API para mostrar la cotización del dólar en ARS en tiempo real, simulador de carrito de compras, modo oscuro y notificaciones interactivas.
+| Proyecto | Tipo | Qué resuelve | Enlace |
+| :--- | :--- | :--- | :--- |
+| **Arecotech** | Portfolio y marca personal | Estudio de desarrollo web y software a medida para PyMEs, comercios y clubes | [arecotech.com.ar ↗](https://arecotech.com.ar) |
+| **ERP Arecotech** | Sistema de gestión | Presupuestos, clientes y facturación en un solo lugar | [erp.arecotech.com.ar ↗](https://erp.arecotech.com.ar) |
+| **Gym Arecotech** | Software para gimnasios | Gestión de socios, cuotas y control de acceso por DNI en recepción | [gym.arecotech.com.ar ↗](https://gym.arecotech.com.ar/demo/) |
+| **Club Huracán** | Sistema a medida | Cobros, padrón de socios y contabilidad del club | *Sistema privado* |
+| **Líder Vial SRL** | Web institucional | Presentación de servicios y obras de la empresa | [lidervial.com.ar ↗](https://lidervial.com.ar) |
+| **Te quiero hasta Plutón** | Web de autora | Sitio editorial del libro y la autora con identidad visual propia | [tequierohastapluton.com.ar ↗](https://tequierohastapluton.com.ar) |
 
 ---
 
@@ -90,7 +73,6 @@ Tienda web de hardware para armado de PCs desarrollada con JavaScript nativo, Bo
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Bases de datos
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -98,13 +80,11 @@ Tienda web de hardware para armado de PCs desarrollada con JavaScript nativo, Bo
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Testing & Herramientas
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -118,5 +98,5 @@ Tienda web de hardware para armado de PCs desarrollada con JavaScript nativo, Bo
 ---
 
 <div align="center">
-  <sub>¿Querés charlar sobre un proyecto o colaboración? Escribime a <a href="mailto:juanigpunte@gmail.com">juanigpunte@gmail.com</a>.</sub>
+  <sub>¿Tenés un proyecto en mente? Visitá <a href="https://arecotech.com.ar">arecotech.com.ar</a> o escribime a <a href="mailto:juanigpunte@gmail.com">juanigpunte@gmail.com</a>.</sub>
 </div>
