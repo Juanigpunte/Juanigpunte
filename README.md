@@ -2,7 +2,7 @@
 
 # Hola, soy Juan Ignacio Punte 👋
 
-### Desarrollador Full-Stack · Fundador de [Arecotech](https://arecotech.com.ar)
+### Analista en Informática (UNSAdA) · Desarrollador Full-Stack · Fundador de [Arecotech](https://arecotech.com.ar)
 
 Desarrollo web y software a medida para PyMEs, comercios y clubes — **de la idea a producción**.
 
@@ -31,7 +31,7 @@ Desarrollo web y software a medida para PyMEs, comercios y clubes — **de la id
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador **full-stack** con más de tres años de experiencia y fundador de **[Arecotech Informática & Software](https://arecotech.com.ar)**, mi marca personal y estudio de desarrollo en San Antonio de Areco, Argentina.
+Soy **Analista en Informática** recibido en la **Universidad Nacional de San Antonio de Areco (UNSAdA)**, desarrollador **full-stack** con más de tres años de experiencia y fundador de **[Arecotech Informática & Software](https://arecotech.com.ar)**, mi marca personal y estudio de desarrollo.
 
 Me enfoco en resolver problemas reales con software que la gente realmente use: desde sitios institucionales y landings hasta sistemas de gestión y punto de venta en producción, cubriendo todo el ciclo — arquitectura, desarrollo, despliegue, seguridad y soporte continuo.
 
