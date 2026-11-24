@@ -88,15 +88,6 @@ Sistema de caja y gestión comercial diseñado para comercios con balanza, prepa
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Juanigpunte&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true" alt="Estadísticas de GitHub de Juanigpunte" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanigpunte&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados por Juanigpunte" />
-</div>
-
----
-
 <div align="center">
   <sub>¿Tenés un proyecto en mente? Visitá <a href="https://arecotech.com.ar">arecotech.com.ar</a> o escribime a <a href="mailto:juanigpunte@gmail.com">juanigpunte@gmail.com</a>.</sub>
 </div>
