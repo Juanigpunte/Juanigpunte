@@ -2,7 +2,7 @@
 
 # Hola, soy Juan Ignacio Punte 👋
 
-### Analista en Informática (UNSAdA) · Desarrollador Full-Stack · Fundador de [Arecotech](https://arecotech.com.ar)
+### Analista en Informática (UNSAdA) · Programador Full-Stack en [Evol SRL](https://www.evol.com.ar/) · Fundador de [Arecotech](https://arecotech.com.ar)
 
 Desarrollo web y software a medida para PyMEs, comercios y clubes — **de la idea a producción**.
 
@@ -32,6 +32,8 @@ Desarrollo web y software a medida para PyMEs, comercios y clubes — **de la id
 ## 👨‍💻 Sobre mí
 
 Soy **Analista en Informática** recibido en la **Universidad Nacional de San Antonio de Areco (UNSAdA)**, desarrollador **full-stack** con más de tres años de experiencia y fundador de **[Arecotech Informática & Software](https://arecotech.com.ar)**, mi marca personal y estudio de desarrollo.
+
+Actualmente me desempeño como **Programador Full-Stack** en **[Evol SRL](https://www.evol.com.ar/)**, empresa dedicada al desarrollo de software de gestión y soluciones tecnológicas, trabajando con **C#**, **.NET** y **SQL Server**.
 
 Me enfoco en resolver problemas reales con software que la gente realmente use: desde sitios institucionales y landings hasta sistemas de gestión y punto de venta en producción, cubriendo todo el ciclo — arquitectura, desarrollo, despliegue, seguridad y soporte continuo.
 
@@ -75,9 +77,12 @@ Sistema de caja y gestión comercial diseñado para comercios con balanza, prepa
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend & Bases de datos
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
