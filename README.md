@@ -57,7 +57,7 @@ Sistema de caja y gestión comercial diseñado para comercios con balanza, prepa
 | Proyecto | Tipo | Qué resuelve | Enlace |
 | :--- | :--- | :--- | :--- |
 | **Arecotech** | Portfolio y marca personal | Estudio de desarrollo web y software a medida para PyMEs, comercios y clubes | [arecotech.com.ar ↗](https://arecotech.com.ar) |
-| **ERP Arecotech** | Sistema de gestión | Presupuestos, clientes y facturación en un solo lugar | [erp.arecotech.com.ar ↗](https://erp.arecotech.com.ar) |
+| **ERP Arecotech** | Sistema de gestión | Presupuestos, clientes y facturación en un solo lugar | [erp.arecotech.com.ar ↗](https://arc.arecotech.com.ar) |
 | **Gym Arecotech** | Software para gimnasios | Gestión de socios, cuotas y control de acceso por DNI en recepción | [gym.arecotech.com.ar ↗](https://gym.arecotech.com.ar/demo/) |
 | **Club Huracán** | Sistema a medida | Cobros, padrón de socios y contabilidad del club | *Sistema privado* |
 | **Líder Vial SRL** | Web institucional | Presentación de servicios y obras de la empresa | [lidervial.com.ar ↗](https://lidervial.com.ar) |
